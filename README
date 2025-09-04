@@ -1,0 +1,13 @@
+# 🚀 Taller de Fundamentos de TypeScript
+
+Este repositorio contiene la resolución del Taller 02 - Fundamentos de TypeScript, un ejercicio práctico para reforzar conceptos clave del lenguaje.
+
+## 🎯 Objetivo
+
+El taller se enfoca en la práctica de los siguientes temas:
+- Declaración de variables con `let` y `const`.
+- Creación y uso de **interfaces** para tipar objetos.
+- Definición de funciones de flecha (`arrow functions`).
+- Manejo de parámetros de función (obligatorios, opcionales y por defecto).
+- Implementación de **clases** y sus métodos.
+- Uso de **alias de tipo** y **funciones genéricas** (ejercicio opcional).

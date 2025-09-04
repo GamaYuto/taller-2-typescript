@@ -1,0 +1,21 @@
+{
+  "name": "taller-2-typescript",
+  "version": "1.0.0",
+  "description": "Taller 2 de TypeScript",
+  "main": "dist/ejercicio1.js",
+  "scripts": {
+    "dev": "tsc --watch",
+    "build": "tsc",
+    "start:ej1": "node dist/ejercicio1.js",
+    "start:ej2": "node dist/ejercicio2.js",
+    "start:ej3": "node dist/ejercicio3.js",
+    "start:ej4": "node dist/ejercicio4.js",
+    "start:ej5": "node dist/ejercicio5.js",
+    "start:ej6": "node dist/ejercicio6.js",
+    "clean": "rimraf dist"
+  },
+  "devDependencies": {
+    "rimraf": "^5.0.1",
+    "typescript": "^5.9.2"
+  }
+}
