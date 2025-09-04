@@ -54,19 +54,9 @@ Para poder ejecutar este proyecto en tu entorno local, sigue estos pasos:
     # ... y así sucesivamente para cada ejercicio
     ```
 
----
 
 ## 👨‍💻 Autor
 
 - **Nombre:** Oswaldo Rafael Gamarra Salinas
 - **Perfil de GitHub:** GamaYuto
 
----
-
-## ✅ Lecciones Aprendidas
-
-Este taller fue una gran oportunidad para:
-
-- Entender la importancia del tipado estricto para escribir código más seguro y predecible.
-- Familiarizarme con las mejores prácticas de configuración de un proyecto de TypeScript, incluyendo `package.json` y `tsconfig.json`.
-- Fortalecer mis habilidades en el manejo de ramas y la subida de proyectos a GitHub.
