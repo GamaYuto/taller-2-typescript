@@ -1,13 +1,72 @@
 # 🚀 Taller de Fundamentos de TypeScript
 
-Este repositorio contiene la resolución del Taller 02 - Fundamentos de TypeScript, un ejercicio práctico para reforzar conceptos clave del lenguaje.
+![TypeScript Logo](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-## 🎯 Objetivo
+Este repositorio contiene la resolución de un taller práctico enfocado en los fundamentos de TypeScript. El objetivo principal fue reforzar conceptos clave del lenguaje y buenas prácticas de programación, como el uso de tipos, interfaces y clases.
 
-El taller se enfoca en la práctica de los siguientes temas:
-- Declaración de variables con `let` y `const`.
-- Creación y uso de **interfaces** para tipar objetos.
-- Definición de funciones de flecha (`arrow functions`).
-- Manejo de parámetros de función (obligatorios, opcionales y por defecto).
-- Implementación de **clases** y sus métodos.
-- Uso de **alias de tipo** y **funciones genéricas** (ejercicio opcional).
+---
+
+## 📖 Contenido del Taller
+
+El taller está dividido en seis ejercicios, cada uno enfocado en un tema específico:
+
+- **Ejercicio 1:** `let` y `const`
+- **Ejercicio 2:** Interfaces
+- **Ejercicio 3:** Funciones de flecha (Arrow Functions)
+- **Ejercicio 4:** Parámetros de función (obligatorios, opcionales y por defecto)
+- **Ejercicio 5:** Clases y métodos
+- **Ejercicio 6:** Tipado estricto y Genéricos (opcional)
+
+---
+
+## ⚙️ Cómo ejecutar el proyecto
+
+Para poder ejecutar este proyecto en tu entorno local, sigue estos pasos:
+
+1.  **Clona el repositorio:**
+    Abre tu terminal y clona este proyecto.
+    ```bash
+    git clone [https://github.com/GamaYuto/taller-2-typescript.git](https://github.com/GamaYuto/taller-2-typescript.git)
+    cd taller-2-typescript
+    ```
+
+2.  **Instala las dependencias:**
+    Ejecuta el siguiente comando para instalar TypeScript y otras dependencias necesarias.
+    ```bash
+    npm install
+    ```
+
+3.  **Compila el código:**
+    Una vez que las dependencias estén instaladas, puedes compilar los archivos TypeScript a JavaScript. Esto creará una carpeta `dist` con el código ejecutable.
+    ```bash
+    npm run build
+    ```
+
+4.  **Ejecuta cada ejercicio:**
+    Usa los scripts de Node.js para ejecutar cada ejercicio de manera individual y ver la salida en la consola.
+    ```bash
+    # Para ejecutar el Ejercicio 1
+    npm run start:ej1
+    
+    # Para ejecutar el Ejercicio 2
+    npm run start:ej2
+    
+    # ... y así sucesivamente para cada ejercicio
+    ```
+
+---
+
+## 👨‍💻 Autor
+
+- **Nombre:** Oswaldo Rafael Gamarra Salinas
+- **Perfil de GitHub:** GamaYuto
+
+---
+
+## ✅ Lecciones Aprendidas
+
+Este taller fue una gran oportunidad para:
+
+- Entender la importancia del tipado estricto para escribir código más seguro y predecible.
+- Familiarizarme con las mejores prácticas de configuración de un proyecto de TypeScript, incluyendo `package.json` y `tsconfig.json`.
+- Fortalecer mis habilidades en el manejo de ramas y la subida de proyectos a GitHub.
